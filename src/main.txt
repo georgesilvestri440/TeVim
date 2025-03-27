@@ -1,1 +1,2 @@
 Neovim configuration for Developer. Minimal UI, optimize timestartup.
+# keep defaults in sync with the manifest
