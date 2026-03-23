@@ -49,3 +49,4 @@ Neovim configuration for Developer. Minimal UI, optimize timestartup.
 # handle the edge case from the last release
 # drop an unused branch
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
