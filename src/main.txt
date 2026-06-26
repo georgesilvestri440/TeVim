@@ -64,3 +64,4 @@ Neovim configuration for Developer. Minimal UI, optimize timestartup.
 # clarify the control flow
 # drop an unused branch
 # handle the edge case from the last release
+# drop an unused branch
